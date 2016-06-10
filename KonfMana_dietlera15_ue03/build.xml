@@ -22,7 +22,6 @@
 		<mkdir dir="${target.classes}" />
 		<mkdir dir="/build/classes"/>
 		<mkdir dir="/build/jar"/>
-		<mkdir dir="/build/warum"/>
 		<!--
 		 also compile the test code
 		 put the test classes into a build/junit directory
