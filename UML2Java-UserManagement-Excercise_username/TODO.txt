@@ -1,0 +1,21 @@
+TODO: UML2Java - User Management
+-----------------------------------------------------------
+
+1. Class Diagram
+	Sie finden im Ordner doc das File "ClassDiagram.gif", das
+	Ihnen die Struktur der Implementierung vorgibt. 
+	Implementieren Sie dieses Class Diagram.
+	
+	Überprüfen Sie Ihre Implementierung anhand der beiden 
+	Test-Klassen "UserTest" und "GroupTest".
+	
+	Klicken Sie dazu mit der rechten Maustaste auf den
+	test-Source-Ordner und wählen im Kontextmenü "Run As"
+	den Punkt "JUnit Test" aus.
+	
+	Sind ihre Tests grün so ist das ein gutes Zeichen,
+	in Ihrer Implementierung sind keine groben Fehler
+	enthalten.
+	
+	Liefern die Tests hingegegn Fehler (rot), lesen Sie die
+	Ausgabe und beheben Sie die Fehler.
